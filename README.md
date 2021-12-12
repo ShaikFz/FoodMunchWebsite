@@ -1,2 +1,2 @@
 # FoodMunchWebsite
-FrontEnd Technoligies Used HTML,CSS,BOOTSTRAP
+Front-End Technologies Used HTML,CSS,BOOTSTRAP
